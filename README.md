@@ -16,6 +16,7 @@
 
 [Data Analysis](#data-analysis)
 
+[Data Visualization](#data-visualization)
 
 ###  Project Overview
  
@@ -53,7 +54,7 @@ EDA involved the exploring of data to explore some questions
 ---
 This is where we include some basic commands, functions, and queries used during your analysis;
 
-|S/N|Name|Number|                                              
+|S/N|Name|Number|
 |---|----|------|
 |1|Joanna|234|
 
